@@ -32,6 +32,7 @@ Objetivo: Desenvolver um sistema de gerenciamento de um restaurante em Java, per
 Telas: 
 
 ![login](https://github.com/user-attachments/assets/e06a7efd-a002-4d09-a048-01c85ede501c)
+<br>
 ![Screenshot 2024-11-01 104024](https://github.com/user-attachments/assets/0c87c01b-774b-4f84-8df4-7d9feea639dc)
 ![Screenshot 2024-11-01 103337](https://github.com/user-attachments/assets/df07f552-728f-471e-8921-854580e89045)
 ![Screenshot 2024-11-01 103320](https://github.com/user-attachments/assets/faad3475-a145-46d1-a84c-abafcd48dab5)
