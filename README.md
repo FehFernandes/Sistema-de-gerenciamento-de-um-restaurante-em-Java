@@ -27,8 +27,6 @@ Objetivo: Desenvolver um sistema de gerenciamento de um restaurante em Java, per
 
 * Banco de Dados: Implementação do banco de dados SQL para persistência de dados.
 
-* Prática IML: Desenvolvimento de práticas utilizando IML (Interactive Machine Learning) para aprimorar o sistema.
-
 Telas: 
 
 ![login](https://github.com/user-attachments/assets/e06a7efd-a002-4d09-a048-01c85ede501c)
